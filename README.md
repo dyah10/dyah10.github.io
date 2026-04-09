@@ -1,5 +1,3 @@
-# dyah10.github.io
-
 Hi, I'm Dominique - a builder based in New York. 
 
 I'm the founder of [Pixa](https://www.pixa.com), where we're building the most intelligent platform for creating, editing, and shipping production-ready visuals. Check out some of what we offer:
